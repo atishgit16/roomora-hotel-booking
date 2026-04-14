@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "src": "https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg",
+    "category": "rooms",
+    "title": "Luxury Suite"
+  },
+  {
+    "id": 2,
+    "src": "https://images.pexels.com/photos/277572/pexels-photo-277572.jpeg",
+    "category": "dining",
+    "title": "Fine Dining Restaurant"
+  },
+  {
+    "id": 3,
+    "src": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg",
+    "category": "spa",
+    "title": "Spa & Wellness Center"
+  },
+  {
+    "id": 4,
+    "src": "https://images.pexels.com/photos/1457847/pexels-photo-1457847.jpeg",
+    "category": "pool",
+    "title": "Infinity Pool"
+  },
+  {
+    "id": 5,
+    "src": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg",
+    "category": "lobby",
+    "title": "Grand Lobby"
+  },
+  {
+    "id": 6,
+    "src": "https://images.pexels.com/photos/2565222/pexels-photo-2565222.jpeg",
+    "category": "events",
+    "title": "Wedding Venue"
+  },
+  {
+    "id": 7,
+    "src": "https://images.pexels.com/photos/167533/pexels-photo-167533.jpeg",
+    "category": "rooms",
+    "title": "Executive Room"
+  },
+  {
+    "id": 8,
+    "src": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg",
+    "category": "dining",
+    "title": "Breakfast Buffet"
+  },
+  {
+    "id": 9,
+    "src": "https://images.pexels.com/photos/237371/pexels-photo-237371.jpeg",
+    "category": "spa",
+    "title": "Massage Therapy"
+  },
+  {
+    "id": 10,
+    "src": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg",
+    "category": "pool",
+    "title": "Poolside Lounge"
+  },
+  {
+    "id": 11,
+    "src": "https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg",
+    "category": "events",
+    "title": "Conference Room"
+  },
+  {
+    "id": 12,
+    "src": "https://images.pexels.com/photos/96444/pexels-photo-96444.jpeg",
+    "category": "lobby",
+    "title": "Reception Area"
+  }
+]

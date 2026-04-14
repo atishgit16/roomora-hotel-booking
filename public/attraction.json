@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Juhu Beach",
+    "category": "leisure",
+    "image": "https://images.pexels.com/photos/2414442/pexels-photo-2414442.jpeg",
+    "description": "One of Mumbai's most famous beaches, perfect for evening strolls, street food, and beautiful sunsets.",
+    "distance": "3.2 km",
+    "timing": "Open 24 hours",
+    "rating": 4.3,
+    "highlight": "Sunset views & street food"
+  },
+  {
+    "id": 2,
+    "name": "ISKCON Temple",
+    "category": "cultural",
+    "image": "https://images.pexels.com/photos/3581360/pexels-photo-3581360.jpeg",
+    "description": "A beautiful temple dedicated to Lord Krishna, known for its serene atmosphere and spiritual activities.",
+    "distance": "2.5 km",
+    "timing": "4:30 AM - 8:30 PM",
+    "rating": 4.7,
+    "highlight": "Spiritual experience"
+  },
+  {
+    "id": 3,
+    "name": "Versova Beach",
+    "category": "leisure",
+    "image": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg",
+    "description": "A less crowded alternative to Juhu Beach, known for its cleanliness and peaceful environment.",
+    "distance": "5.8 km",
+    "timing": "Open 24 hours",
+    "rating": 4.1,
+    "highlight": "Peaceful atmosphere"
+  },
+  {
+    "id": 4,
+    "name": "Powai Lake",
+    "category": "nature",
+    "image": "https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg",
+    "description": "A serene artificial lake surrounded by gardens, perfect for morning walks and bird watching.",
+    "distance": "6.3 km",
+    "timing": "6:00 AM - 8:00 PM",
+    "rating": 4.2,
+    "highlight": "Scenic views"
+  },
+  {
+    "id": 5,
+    "name": "Fun Republic Mall",
+    "category": "shopping",
+    "image": "https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg",
+    "description": "Popular shopping and entertainment complex with multiplex, restaurants, and brand outlets.",
+    "distance": "1.2 km",
+    "timing": "11:00 AM - 11:00 PM",
+    "rating": 4.0,
+    "highlight": "Shopping & entertainment"
+  },
+  {
+    "id": 6,
+    "name": "Mahakali Caves",
+    "category": "historical",
+    "image": "https://images.pexels.com/photos/2437286/pexels-photo-2437286.jpeg",
+    "description": "Ancient Buddhist rock-cut caves dating back to 1st century BCE, featuring intricate carvings.",
+    "distance": "4.7 km",
+    "timing": "9:00 AM - 5:30 PM",
+    "rating": 4.4,
+    "highlight": "Historical significance"
+  },
+  {
+    "id": 7,
+    "name": "Gilbert Hill",
+    "category": "nature",
+    "image": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg",
+    "description": "A 200-foot monolithic black basalt rock hill, declared a National Park in 1952.",
+    "distance": "3.8 km",
+    "timing": "8:00 AM - 6:00 PM",
+    "rating": 4.0,
+    "highlight": "Geological wonder"
+  },
+  {
+    "id": 8,
+    "name": "Andheri Sports Complex",
+    "category": "recreation",
+    "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg",
+    "description": "Modern sports facility with swimming pool, gymnasium, and various indoor sports amenities.",
+    "distance": "2.1 km",
+    "timing": "6:00 AM - 10:00 PM",
+    "rating": 4.1,
+    "highlight": "Sports activities"
+  }
+]
